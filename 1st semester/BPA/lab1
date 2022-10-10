@@ -2,39 +2,21 @@
 
 #1
 mkdir lab0
-cd lab0
+mkdir -p ekans8/{claydol,grumpig,torterra}
 touch armaldo3
-touch bayleef6
-
 echo "satk=7 sdef=8 spd=5" > armaldo3
-
-mkdir ekans8
-mkdir gallade2
-mkdir nidorino3
+touch bayleef6
 touch pikachu1
-
 echo "Ходы Body \nSlam Counter Cover Defence Curl Double-Edge Dynamicpuch Focus Punch \nHelping Hand Iron Tail Knock Off Magnet Rise Mega Kick Mega Punch Mud-Slap Rollout Seismic Toss Shock Wave Signal Beam Sleep Talk Shore \nSwift Thunderpunch Uproar" > pikachu1
 
-cd ekans8
-mkdir claydol
-mkdir grumpig
-mkdir torterra
-cd ..
-
-cd gallade2
-touch purrloin
-touch shinx
-mkdir scyther
-
+mkdir -p ekans8/{claydol,grumpig,torterra}
+touch gallade2/{purrloin,shinx}
 echo "Способности Scratch Growl Assist \nSad-Attack Fury Swipes Pursuit Torment Fake Out Hone Claws Assurance \nSlash Captivate Night Slash Satch Nasty Plot Sucker \nPunch" > purrloin
 echo "Развитые способности Guts" > shinx
+mkdir scyther
 
-cd ..
-cd nidorino3
-mkdir shellder
-touch leafeon
-touch azurill
-mkdir omanyte
+mkdir -p nidorino3/{shellder,omanyte}
+touch nidorino3/{leafeon,azurill}
 echo "Споссобноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
 echo "weigth=4.4 height=8.0 def=4"c > azurill
 cd ..
