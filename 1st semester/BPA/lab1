@@ -38,3 +38,32 @@ mkdir omanyte
 echo "Споссобноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
 echo "weigth=4.4 height=8.0 def=4"c > azurill
 cd ..
+
+#2
+chmod 666 armaldo3
+chmod 444 bayleef6
+chmod 577 ekans8
+chmod 777 ekans8/claydol
+chmod 307 ekans8/grumpig
+chmod 355 ekans8/torterra
+chmod 311 gallade2
+chmod 622 gallade2/purrloin
+chmod 736 gallade2/scyther
+chmod 006 gallade2/shinx
+chmod 307 nidorino3
+chmod 311 nidorino3/shellder
+chmod 046 nidorino3/leafeon
+chmod 404 nidorino3/azurill
+chmod 571 nidorino3/omanyte
+chmod 444 pikachu1
+
+ls -lR
+
+#3
+ln -s armaldo3 gallade2/purrloinarmaldo
+cat nidorino3/leafeon nidorino3/azurill > bayleef6_63
+ln pikachu1 gallade2/purrloinpikachu
+cp bayleef6 nidorino3/azurillbayleef
+cp -r gallade2/ ekans8/torterra
+ln -s ekans8 Copy_31
+cp pikachu1 nidorino3/omanyte 
