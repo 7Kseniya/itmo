@@ -19,7 +19,7 @@ mkdir -p nidorino3/{shellder,omanyte}
 touch nidorino3/{leafeon,azurill}
 echo "Споссобноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
 echo "weigth=4.4 height=8.0 def=4"c > azurill
-cd ..
+
 
 #2
 chmod 666 armaldo3
