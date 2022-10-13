@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T12:47:15.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MPRz8i2BeeGJAyNFzzTa" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-13T12:50:04.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YroGV4Ygnij1GwfEmPOD" version="20.4.0" type="github" pages="2">
   <diagram id="Vkf5A_GdwDsM529_J52t" name="Страница 1">
     <mxGraphModel dx="1928" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2bsXgMpiyBcFsPt2Fv77" name="Страница 2">
-    <mxGraphModel dx="2570" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1141,6 +1141,9 @@
               <mxPoint x="740" y="586" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u4W9c4V6rv8evRSbv9oK-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillStyle=auto;strokeColor=#007FFF;strokeWidth=2;fontSize=16;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="90" width="20" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
