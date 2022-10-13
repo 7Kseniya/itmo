@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T13:03:32.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oDXapTnVxKyHzhlDrsbu" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-13T13:09:34.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FWsOY2vAaHQmf-X93_J4" version="20.4.0" type="github" pages="2">
   <diagram id="Vkf5A_GdwDsM529_J52t" name="Страница 1">
     <mxGraphModel dx="1928" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2bsXgMpiyBcFsPt2Fv77" name="Страница 2">
-    <mxGraphModel dx="617" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="441" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1128,8 +1128,8 @@
             <mxPoint x="580" y="650" as="sourcePoint" />
             <mxPoint x="630" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="655" />
-              <mxPoint x="650" y="530" />
+              <mxPoint x="660" y="655" />
+              <mxPoint x="660" y="531" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1292,6 +1292,18 @@
         </mxCell>
         <mxCell id="u4W9c4V6rv8evRSbv9oK-40" value="i11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=2;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1036" y="626" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4W9c4V6rv8evRSbv9oK-41" value="ошибка в i1, i2, i4, i5, i7, i9, i11, r1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="575" width="103" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4W9c4V6rv8evRSbv9oK-42" value="ошибка в i1, i3, i4, i6, i7, i10, i11, r2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="659.5" width="103" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4W9c4V6rv8evRSbv9oK-44" value="ошибка в i2, i3, i4, i8, i9, i10, i11, r3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="569" y="746" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4W9c4V6rv8evRSbv9oK-46" value="ошибка в i5, i6, i7, i8, i9, i10, i11, r4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="581" y="833.5" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
