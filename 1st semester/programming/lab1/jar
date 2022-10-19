@@ -1,4 +1,4 @@
 javac LabOne.java
 cat > MANIFEST.MF
-Main-class: LabOne
+Main-Сlass: LabOne
 jar -cfm LabOne.jar MANIFEST.MF LabOne.class
