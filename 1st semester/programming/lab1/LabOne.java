@@ -1,5 +1,6 @@
-public class LabOne {
+package ru.ksenya.lab0;
 
+public class LabOne {
     static double[] calculateLn(float[] meanings) {
         double[] newMeanings = new double[meanings.length];
 
@@ -32,9 +33,11 @@ public class LabOne {
 
     static double[] calculateCubeRoot(float[] meanings) {
         double[] newMeanings = new double[meanings.length];
-
+        for (int i = 0; i < meanings.length; i++) {
+            newMeanings[i]=meanings[i];
+        }
         for (int i = 0; i != newMeanings.length; i++) {
-            newMeanings[i] = Math.pow(Math.sin(1/2 * newMeanings[i]), 2);
+            newMeanings[i] = Math.pow(Math.sin(1/2 * newMeanings[i]), 2.0);
             newMeanings[i] = Math.pow(Math.tan(newMeanings[i]), 2);
             newMeanings[i] = Math.pow(Math.log(newMeanings[i]), 1/3);
         }
@@ -74,5 +77,6 @@ public class LabOne {
                 }
             }
         }
+        spreadsheetOutput(a);
     }
 }
