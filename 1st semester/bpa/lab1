@@ -20,6 +20,7 @@ touch nidorino3/{leafeon,azurill}
 echo "Споссобноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
 echo "weigth=4.4 height=8.0 def=4"c > azurill
 
+echo "________________________________________________________"
 
 #2
 chmod 666 armaldo3
@@ -41,6 +42,8 @@ chmod 444 pikachu1
 
 ls -lR
 
+echo "________________________________________________________"
+
 #3
 ln -s armaldo3 gallade2/purrloinarmaldo
 cat nidorino3/leafeon nidorino3/azurill > bayleef6_63
@@ -49,3 +52,8 @@ cp bayleef6 nidorino3/azurillbayleef
 cp -r gallade2/ ekans8/torterra
 ln -s ekans8 Copy_31
 cp pikachu1 nidorino3/omanyte 
+
+echo "________________________________________________________"
+
+#4
+
