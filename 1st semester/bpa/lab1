@@ -23,22 +23,22 @@ echo "weigth=4.4 height=8.0 def=4"c > azurill
 echo "________________________________________________________"
 
 #2
-chmod 666 armaldo3
+chmod a=rw- armaldo3
 chmod 444 bayleef6
 chmod 577 ekans8
-chmod 777 ekans8/claydol
+chmod a=rwx  ekans8/claydol
 chmod 307 ekans8/grumpig
 chmod 355 ekans8/torterra
-chmod 311 gallade2
+chmod u= -wx go=--x gallade2
 chmod 622 gallade2/purrloin
 chmod 736 gallade2/scyther
 chmod 006 gallade2/shinx
 chmod 307 nidorino3
-chmod 311 nidorino3/shellder
+chmod u= -wx go=--x nidorino3/shellder
 chmod 046 nidorino3/leafeon
 chmod 404 nidorino3/azurill
 chmod 571 nidorino3/omanyte
-chmod 444 pikachu1
+chmod a=r--
 
 ls -lR
 
