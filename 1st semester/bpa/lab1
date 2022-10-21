@@ -48,7 +48,7 @@ echo "________________________________________________________"
 chmod u=rwx nidorino3/leafeon
 chmod u+wx nidorino3/azurill
 chmod u+r ekans8/torterra
-chmod -R 777 * gallade2
+chmod -R 744 * gallade2
 chmod u+wx pikachu1
 chmod u+w nidorino3/omanyte
 
