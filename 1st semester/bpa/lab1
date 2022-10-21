@@ -17,7 +17,7 @@ mkdir scyther
 
 mkdir -p nidorino3/{shellder,omanyte}
 touch nidorino3/{leafeon,azurill}
-echo "Споссобноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
+echo "Способноти \nSand-Attack Razor Leaf Quick Attack Grasswhistle Magical Leaf Giga \nDrain Swords Dance Synthesis Suny Day Last Resort Leaaf \nBlade" > leafeon
 echo "weigth=4.4 height=8.0 def=4"c > azurill
 
 echo "________________________________________________________"
@@ -45,6 +45,13 @@ ls -lR
 echo "________________________________________________________"
 
 #3
+chmod u=rwx nidorino3/leafeon
+chmod u+wx nidorino3/azurill
+chmod u+r ekans8/torterra
+chmod -R 777 * gallade2
+chmod u+wx pikachu1
+chmod u+w nidorino3/omanyte
+
 ln -s armaldo3 gallade2/purrloinarmaldo
 cat nidorino3/leafeon nidorino3/azurill > bayleef6_63
 ln pikachu1 gallade2/purrloinpikachu
