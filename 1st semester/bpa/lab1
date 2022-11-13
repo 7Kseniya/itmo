@@ -90,6 +90,6 @@ chmod 777 ./lab0/**/*
 rm -f bayleef6
 rm -f gallade2/shinx
 rm -f gallade2/purrloinarmal*
-rm -f gallade2/purrloinpikac
+rm -f gallade2/purrloinpikac?*
 rm -rf gallade2
 rm -rf ekans8/torterra
