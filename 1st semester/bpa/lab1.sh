@@ -2,6 +2,7 @@
 
 #1
 mkdir lab0
+cd lab0
 mkdir -p ekans8/{claydol,grumpig,torterra}
 touch armaldo3
 echo "satk=7 sdef=8 spd=5" > armaldo3
