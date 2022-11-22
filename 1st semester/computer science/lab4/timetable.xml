@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<timetable>
+    <subject1>
+        <day>четверг</day>
+        <time>10:00 - 11:30</time>
+        <week>четная неделя</week>
+        <lesson>ИНФОРМАТИКА(ЛАБ)</lesson>
+        <teacher>Гурьянова Аглая Геннадьевна</teacher>
+        <format>Очно-дистанционный</format>
+        <place>Кронверский пр., д.49, лит.А</place>
+        <room>1320 (бывш. 365) ауд.</room>
+    </subject1>
+    <subject2>
+        <day>четверг</day>
+        <time>11:40 - 13:10</time>
+        <week>четная неделя</week>
+        <lesson>ИНФОРМАТИКА(ЛАБ)</lesson>
+        <teacher>Гурьянова Аглая Геннадьевна</teacher>
+        <format>Очно-дистанционный</format>
+        <place>Кронверский пр., д.49, лит.А</place>
+        <room>1320 (бывш. 365) ауд.</room>
+    </subject2>
+    <subject3>
+        <day>четверг</day>
+        <time>13:30 - 15:00</time>
+        <week>четная неделя</week>
+        <lesson>ИНФОРМАТИКА(ЛЕК)</lesson>
+        <teacher>Болдырева Елена Александровна</teacher>
+        <format>Очно-дистанционный</format>
+        <place>Кронверский пр., д.49, лит.А</place>
+        <room>2426 (бывш. 422) ауд.</room>
+    </subject3>
+</timetable>
