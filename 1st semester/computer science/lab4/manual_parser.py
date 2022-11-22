@@ -24,21 +24,21 @@ def parse_json(sourse_file: str) -> dict:
     data = data.replace('"', '')
     data = data.split('subject')[1:]
     
-for i in range(len(data)):
-    timetable_dict ['timetable'][f'subject {i+1}'] = {}
+    for i in range(len(data)):
+        timetable_dict ['timetable'][f'subject {i+1}'] = {}
     
-    for k in ('day', 'time', 'week', 'lesson', 'room'):
-        if k in ('teacher', 'format'):
-            value = extract_data(data[i], k, 3)
-        elif k in ('place'):
-            value = extract_data(data[i], k, 4)
-        else:
-            value = extract_data(data[i], k)
+        for k in ('day', 'time', 'week', 'lesson', 'room'):
+            if k in ('teacher', 'format'):
+                value = extract_data(data[i], k, 3)
+            elif k in ('place'):
+                value = extract_data(data[i], k, 4)
+            else:
+                value = extract_data(data[i], k)
             
-            value = timetable_dict['timetable'][f'subject{i+1}'][k]
-            data[i] = data[i][data[i].find(",") + 1:] 
+                value = timetable_dict['timetable'][f'subject{i+1}'][k]
+                data[i] = data[i][data[i].find(",") + 1:] 
 
-    return timetable_dict            
+        return timetable_dict            
     
 def create_xml():
     xml_code = ''
@@ -60,9 +60,7 @@ def transfer_to_xml(output_file:str,
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write(xml_code)
 
-if __name__ == '__main__': #проверка прямого запуска кода,если есть импортт из других модулей, то name переименуеся
+if __name__ == '__main__': #проверка прямого запуска кода,если есть импорт из других модулей, то name переименуеся
     data = parse_json(Sourse_File)
     xml_code = create_xml(data)
     transfer_to_xml(Output_File, xml_code)    
-
-    
