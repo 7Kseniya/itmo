@@ -35,10 +35,12 @@ chmod 307 ekans8/grumpig
 chmod 355 ekans8/torterra
 chmod 661 gallade2
 chmod u=rw go=x gallade2/purrloin
+chmod go=x gallade2/purrloin
 chmod 736 gallade2/scythe
 chmod 006 gallade2/shinx
 chmod 307 nidorino3
 chmod u=wx go=x nidorino3/shellder
+chmod go=x nidorino3/shellder
 chmod 046 nidorino3/leafeon
 chmod 404 nidorino3/azurill
 chmod 571 nidorino3/omanyte
@@ -49,9 +51,7 @@ ls -lR
 echo "________________________________________________________"
 
 #3
-chmod u+rw pikachu1
 ln -s ../armaldo3 gallade2/purrloinarmaldo
-chmod a=r pikachu1
 cat nidorino3/leafeon nidorino3/azurill > bayleef6_63
 ln pikachu1 gallade2/purrloinpikachu
 cp bayleef6 nidorino3/azurillbayleef
@@ -64,12 +64,12 @@ ls -lR
 echo "________________________________________________________"
 
 #4
-wc -m >>pikachu1 2>/tmp/myerrors
-ls -lFR ./lab0/* 2>/dev/null | grep ^a | grep -v[@/] | tail -3 |  sort -rs 
+wc -m pikachu1>>pikachu1 2>/tmp/myerrors
+ls -lFR ./lab0/* 2>/dev/null | grep ^- | grep \ a| tail -3 | sort -rs 
 cat -n ekans8 2>/tmp/myerrors| grep Mu |
-ls -lFR ./lab0/* 2>/dev/null | grep g$ | grep -v[@/] | head -3 |  sort -k6
-ls -lR ./lab0/* | grep n$ | grep -v[@/] | head -4 |  sort -r -k2
-ls -ulFR ./lab0/* 2>/dev/null |  grep ^a | grep -v[@/] | sort -r -k6
+ls -lFR ./lab0/* 2>/dev/null | grep ^- | grep g$ | head -3 | sort -k6
+ls -lR ./lab0/* | grep ^- | grep n$ | head -4 | sort -r -k2
+ls -ulFR ./lab0/* 2>/dev/null | grep ^- | grep \ a | sort -r -k6
 
 echo "________________________________________________________"
 
