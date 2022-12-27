@@ -10,6 +10,8 @@
 - [lab2 (error-resistant code synthesis)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab2)
 - [lab3 (regular expressions)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab3)
 - [lab4 (parsing)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab4)
+- [lab5 (tables)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab5.xlsx)
+- [lab6 (LaTex)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab6)
 
 ## basics of professional activity
 - [lab1 (linux terminnal basics)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab1)
