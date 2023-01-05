@@ -12,6 +12,7 @@
 - [lab4 (parsing)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab4)
 - [lab5 (tables)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab5)
 - [lab6 (LaTex)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab6)
+- [extra task (tg bot)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/extra_task)
 
 ## basics of professional activity
 - [lab1 (linux terminnal basics)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab1)
