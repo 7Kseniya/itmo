@@ -30,7 +30,7 @@ async def start_handler(message: types.Message):
 
 @dp.message_handler(commands=['help'])
 async def process_help_command(message: types.Message):
-    msg = 'I can answer the following commands:\n/start \n/help \n/go \n/reminder \n/remind'
+    msg = 'I can answer the following commands:\n/start \n/help \n/go \n/reminder'
     await message.reply(msg, parse_mode=ParseMode.MARKDOWN)
 
 @dp.message_handler(commands=['go'])
