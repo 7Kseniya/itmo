@@ -16,3 +16,4 @@
 
 ## basics of professional activity
 - [lab1 (linux terminnal basics)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab1)
+- [lab2 (becm work research)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab2)
