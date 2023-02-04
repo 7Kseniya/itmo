@@ -4,6 +4,7 @@
 - [lab1 (introduction)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/programming/lab1)
 - [lab2 (pokemons)](https://github.com/7Kseniya/lab2)
 - [lab3 (object model of text)](https://github.com/7Kseniya/lab3)
+- [lab4 (object model of text upgrading)](https://github.com/7Kseniya/lab4)
 
 ## computer science 
 - [lab1 (number systems)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab1)
