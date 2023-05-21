@@ -20,6 +20,6 @@
 - [lab1 (linux terminnal basics)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab1)
 - [lab2 (becm work research)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/bpa/lab2)
 
-##data bases
--[lab1 (datalogical model)](https://github.com/7Kseniya/itmo/tree/main/2nd%20semester/databases/lab1)
--[lab2 (queries)]()
+## data bases
+- [lab1 (datalogical model)](https://github.com/7Kseniya/itmo/tree/main/2nd%20semester/databases/lab1)
+- [lab2 (queries)](https://github.com/7Kseniya/itmo/tree/main/2nd%20semester/databases/lab2)
