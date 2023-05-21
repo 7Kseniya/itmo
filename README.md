@@ -5,6 +5,7 @@
 - [lab2 (pokemons)](https://github.com/7Kseniya/lab2)
 - [lab3 (object model of text)](https://github.com/7Kseniya/lab3)
 - [lab4 (object model of text upgrading)](https://github.com/7Kseniya/lab4)
+- [lab5 (console application)](https://github.com/7Kseniya/lab5/tree/main)
 
 ## computer science 
 - [lab1 (number systems)](https://github.com/7Kseniya/itmo/tree/main/1st%20semester/computer%20science/lab1)
