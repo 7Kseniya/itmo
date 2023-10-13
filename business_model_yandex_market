@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T19:35:14.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="2emMsFg1lDWy5ZxN81Pn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T19:58:40.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="p7PgoU46ETdoNcoyPXCL" version="21.7.5" type="github">
   <diagram name="Страница — 1" id="_QTLKV1CrnZN0iWgE02r">
-    <mxGraphModel>
+    <mxGraphModel dx="1397" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="180" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="475" y="180" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-14">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-13" value="платформа Yandex Market" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-14">
+          <mxGeometry x="25" y="15" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="475" y="280" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-15">
+          <mxGeometry y="-30" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-3" value="сбор и анализ данных о клиентах&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-15">
+          <mxGeometry x="20.002380952380953" y="6.428571428571431" width="178.09523809523807" height="57.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="250" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-16">
+          <mxGeometry width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-7" value="передача данных размещенным на платформе ресторанам и магазинам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-16">
+          <mxGeometry x="15.25" width="179.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-18">
+          <mxGeometry x="-40" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-9" value="клиенты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-18">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="250" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-19">
+          <mxGeometry width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-5" value="анализ рынка в режиме реального времени&lt;br&gt;предсказание поведения клиентов&lt;br&gt;индивидуальные клиентские предложения&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR5-3d2Bf3-Xec6OqSW9-19">
+          <mxGeometry x="15" y="5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-24" value="производители" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yR5-3d2Bf3-Xec6OqSW9-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="300" as="sourcePoint" />
+            <mxPoint x="810" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
