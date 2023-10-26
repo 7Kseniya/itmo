@@ -23,3 +23,6 @@
 ## data bases
 - [lab1 (datalogical model)](https://github.com/7Kseniya/itmo/tree/main/2nd%20semester/databases/lab1)
 - [lab2 (queries)](https://github.com/7Kseniya/itmo/tree/main/2nd%20semester/databases/lab2)
+
+## web programming
+- [web repository](https://github.com/7Kseniya/web)
